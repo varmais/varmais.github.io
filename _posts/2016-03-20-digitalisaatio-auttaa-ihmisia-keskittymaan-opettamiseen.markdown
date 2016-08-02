@@ -1,0 +1,23 @@
+---
+layout: post
+author: 'Teemu Tiilikainen'
+title: Digitalisaatio auttaa ihmisiä keskittymään olennaiseen
+date: 2016-03-20 13:38:26.000000000 +02:00
+---
+Digitalisaatio on tämän päivän trendisana ja joka puolella puhutaan kuinka digitalisaatio tulee tuhoamaan työpaikkoja ja uhkaa ihmisten perinteistä elämää. Digitalisaatio tulee kuitenkin nähdä mahdollisuutena, jonka ansiosta toimintaa voi tehostaa ulkoistamalla toistoa vaativat yksitoikkoiset työt koneille, jolloin ihmiset voivat keskittyä yksityiskohtaisiin ongelmiin ja niiden ratkaisemiseen.
+
+Suomi laahaa opetuksen ja koululaitoksen digitalisoinnissa noin 10-15 vuotta maailman kärkeä jäljessä, ja sen huomaa muun muassa Ylen jutusta, jossa [pohditaan nuorten heikentynyttä kirjoitustaitoa](http://yle.fi/uutiset/nuoret_eivat_enaa_osaa_kirjoittaa_hyvaa_suomea__vaikka_kirjoittavat_jatkuvasti/8745871). Pureuduin jo [edellisessä kirjoituksessa](https://varmais.fi/internetin-retoriikka-on-vasta-lapsenkengissa/) siihen miksi ihmisten retoriset taidot (tässä tapauksessa kirjoitustaidot) ovat ruosteessa, joten nyt aiheena onkin tarjota apukeino oppilaiden kirjoitustaidon parantamiseksi.
+
+Tulevaisuuden työelämä tulee yhä enemmän olemaan ongelmanratkaisua, ja omassakin työssä usein vaikeinta on oikeasti määritellä käsillä olevan ongelman ydin. Äidinkielen opettajain liiton puheenjohtajan Sari Hyytisen mukaan "*suuret ryhmäkoot vaikeuttavat nuorten äidinkielentaitojen parantamista*", mutta tosiasiassa ongelma ei ole suuret ryhmäkoot vaan käytettävissä olevien keinojen tehokkuus ja resurssien määrä suhteessa opetettavien määrään. Opettajien kaikki aika menee opiskelijoiden tekstien lukemiseen ja palautteen antamiseen, eikä yksilölliselle ohjaukselle jää aikaa.
+
+Toistan vielä edellä kirjoitetun: Digitalisaation ansiosta toimintaa voi tehostaa **ulkoistamalla toistoa vaativat yksitoikkoiset työt koneille**, jolloin **ihmiset voivat keskittyä yksityiskohtaisiin ongelmiin** ja niiden ratkaisemiseen.
+
+Tekoäly ja tarkemmin sanottuna koneoppiminen tarjoaa äidinkielen lehtoreille apua omassa työssään. Koneoppiminen on  eräs tekoälyn osa-alue, jonka tarkoituksena on saada ohjelmisto toimimaan entistä paremmin pohjatiedon perusteella. Koneoppimisessa ei ohjelmistolle ole välttämättä määritetty tarkkaa algoritmia, eli ohjeistusta siitä miten koneen tulee dataa käsitellä, vaan kone oppii itsenäisesti päätymään haluttuun lopputulokseen, kun sille antaa ensin esimerkkidataa ja niistä haluttuja vastauksia. Jokainen meistä käyttää tällaisia tekoälyohjelmia päivittäin: esimerkiksi hakukoneet muokkaavat hakutuloksia sen mukaan mitä ne ovat meistä oppineet ja roskapostisuodattimet estävät uusia sähköposteja riippuen siitä millainen Viagra-kampanja on tällä kertaa käynnissä.
+
+Suomen kieli on koneelle haastava analysoida johtuen sen verrattain vapaasta rakenteesta, mutta tämä on vain tekninen haaste ja siten helposti ratkaistavissa. Turun yliopistossa [on jo tehty paljon hyvää työtä](http://bionlp.utu.fi/fintreebank.html) suomen kielen analysoinnin saralla. Koneen opettamista helpottaa laadukkaan pohja-aineiston olemassa olo, jota hyväksikäyttäen kone osaa muokata omaa toimintaansa vastaamaan odotettua lopputulosta. Äidinkielen ylioppilaskokeiden vastaukset ja niiden arvosanat tarjoavatkin erittäin laadukkaan aineiston sekä mahdollisista syötteistä (esseet ja aineet), että niiden odotetuista tuloksista (arvosanat).
+
+Kun tällainen työkalu otetaan kouluissa käyttöön, oppilaat ja opiskelijat saavat ohjelmistolta välittömän palautteen omasta tekstistään ja voivat sen perusteella muokata omaa tuotostaan ennen lopullista tehtävän palauttamista. Palautteenantosyklin lyhentyminen edistää oppilaan kehittymistä. Opettajat voivat puolestaan keskittyä ohjaamaan yksilöllisesti niitä oppilaita, joilla on ongelmia eikä heidän aikaa enää mene hukkaan jokaisen tuotetun tekstin lukemiseen.
+
+Mahdollisesti vaikein kehitystä estämässä oleva ongelma on kuitenkin ihmiset. Halu muutokseen ja tehokkaampien toimintatapojen käyttöönottoon täytyy tulla koulujärjestelmästä itsestään, mutta pahoin pelkään että perinteisen muutosvastarinnan vuoksi oppilaat joutuvat vielä pitkään kärsimään tehottomista opettajista, pitkästä palautteenantosyklistä ja massoille räätälöidystä opettamisesta.
+
+Jokaisen työtä tekevän ihmisten tulisi tiedostaa, että vaikka oma työn tekemisen muoto tulee väistämättä muuttumaan tulevaisuudessa, ei sitä tarvitse pelätä eikä se tee ihmistä merkityksettömäksi. Päinvastoin ihmisten suhteellinen merkitys ja kohtaaminen työssä tulee kasvamaan entisestään. Koneet eivät ole varastamassa ihmisten töitä, vaan ne vapauttavat ihmiset tekemään asioita joilla on oikeasti merkitystä.

@@ -1,0 +1,25 @@
+# Site settings
+title: Vasara ja nauloja
+header-img: img/office-relax-clean-ping-pong.jpg
+email: teemu.tiilikainen@gmail.com
+copyright_name: Teemu Tiilikainen
+description: Ajatuksia ohjelmistokehityksestä, digitalisaatiosta ja ajankohtaisista aiheista.
+baseurl: ""
+url: "http://varmais.fi"
+twitter_username: varmais
+github_username:  varmais
+facebook_username:  varmais
+email_username:  teemu.tiilikainen@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-40863940-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

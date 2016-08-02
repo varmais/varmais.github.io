@@ -1,0 +1,29 @@
+---
+layout: post
+author: 'Teemu Tiilikainen'
+title: Äitiyslaki ja isät lesboperheissä
+date: 2016-05-18 22:07:55.000000000 +03:00
+---
+Äitienpäivän tienoilla sosiaalisessa mediassa pyöri tiuhaan kehotuksia allekirjoittaa [kansalaisaloite uuden äitiyslain puolesta](http://aitiyslaki.fi). Aloitteen lakimuutos poistaisi turhaa byrokratiaa naisparien yhdessä hankkiman ja keinohedelmöityksellä alkuun saatetun lapsen vanhemmuuden tunnustamisprosessista, ja siten lapsen oikeudet parantuvat kun hänellä olisi molemmat vanhemmat jo syntymästä lähtien.
+
+Vanhoillisten käsitysten mukaan avioliitto on miehen ja naisen välinen sopimus, joka on tiukasti sidonnainen sukupuolirooleihin. Koskeeko samat vanhoilliset ajatukset myös lapsen vanhemmuutta? Täytyykö lapsella olla yksi isä ja yksi äiti? Jotkut henkilöt väittävät, että lapsella ei voi olla kahta äitiä, vaan vanhemmista toisen tulee olla isä ja toisen äiti. Jäin pohtimaan asiaa ja päätin ottaa hieman lisää selkoa lisääntymisen tekniikasta.
+
+Lapsen teko perinteisin keinoin on melkoista sattumankauppaa. Ensin itse siittäminen voi vaatia monta onnistunutta laukaisua raketilta, jonka lastina on jopa 500 miljoonaa miehen sukusolua. Näistä ehkä yksi pääsee lopulta kohteeseensa ja hedelmöittää naisen munasolun. Tämän jälkeen jännätään mitä lasta kantavan [naisen keho sanoo sisällä kasvavasta tuntemattomasta eliöstä](https://fi.wikipedia.org/wiki/Keskenmeno), sekä tarkkaillaan mahdollisia [kehitysvammoja tai muita häiriöitä](https://www.terveystalo.com/fi/Palvelut/Gynekologia/Raskauden-seuranta-ja-hoito/Lapsivesitutkimus/) sikiön kehityksen aikana.
+
+Koeputkihedelmöitystä (*in vitro fertilisation, IVF*) voidaan käyttää apuna pareille, joille perinteinen hydrauliikka ei syystä tai toisesta tuota tulosta. Koeputkihedelmöityksen onnistumisen edellytyksenä on terve munasolu, muutama siittiö sekä kohtu, joka pystyy kantamaan raskauden. Jos tiedossa on esimerkiksi suuri riski vakaviin perinnöllisiin sairauksiin, voidaan koeputkihedelmöityksen apuna käyttää apuna seulontaa, jossa hedelmöitetään useita munasoluja. Niiden kromosomeja analysoimalla valitaan sellainen munasolu, jolla on parhaat edellytykset kehittyä terveeksi lapseksi ja se siirretään kasvamaan kantavan äidin kohtuun. Menetelmää kutsutaan nimellä *preimplantation genetic diagnosis, PGD*.
+
+Lapseen johtavan sukusolun ei välttämättä tarvitse tulla ihmisen sukupuolielimestä, sillä ihmisen ruumiissa on paljon kantasoluja. Kantasolu on solu, joita on pienessä määrin lähes kaikissa aikuisen ihmisen kudoksissa ja elimissä, ja ohjailemalla kantasolujen jakautumista niistä pystytään kehittämään minkä tyyppisiä soluja tahansa. Kysymys siis kuuluu: Milloin siittämisen teknologia kehittyy niin pitkälle, että kantasolusta on mahdollista kehittää siittiö ja munasolu lapsen koeputkihedelmöitystä varten? 
+
+Näemmä kaksi vuotta sitten.
+
+Henry T. Greely kertoo kirjassaan [The End of Sex and the Future of Human Reproduction](https://www.amazon.co.uk/End-Sex-Future-Human-Reproduction/dp/0674728963) kuinka vuonna 2014 onnistuttiin ensimmäistä kertaa luomaan kantasoluista myös hedelmöittymiskykyisiä sukusoluja. Nuijapäät tosin olivat uimataidottomia häntien puutteen vuoksi, mutta yhtä kaikki häntä on tarpeeton sillä koeputkihedelmöityksessä siittiö injektoidaan suoraan munasolun sisälle. Näin saatiin onnistuneesti hedelmöitettyä munasolu ja synnytettyä terveitä hiirivauvoja. Sama onnistuu myös ihmisellä, esimerkiksi hedelmöittämällä naisen kantasolusta luodulla siittiöllä toisen naisen munasolu tai miehen kantasolusta tehty munasolu toisen miehen siittiöllä.
+
+Teknologian puolesta on siis jo mahdollista, että äitiyslaissa mainitun naisparin lapsella on sekä biologinen isä että biologinen äiti, joista kummatkin ovat naisia.  Naisparit eivät kuitenkaan voi saada kuin tyttölapsia, sillä naisilta puuttuu Y-kromosomi. Miesparien puolestaan tulisi löytää kohtu vuokralle, joten kummankaan homoparin osalta homma ei ole aivan mutkatonta.
+
+Etiikan puolesta homma ei myöskään ole aivan selvä. Keinohedelmöityksestä puhuttaessa PGD-seulonta mainitaan usein, ja siihen liittyy paljon moraalisia kysymyksiä. Kun tekniikan kehittyessä seulonnan hinta laskee suurten massojen tavoitettavaksi, eli kun laajan PGD-seulonnan voi saada noin parin tuhannen euron hintaan, on moni perisessä perhemallissa elävä valmis maksamaan tuon summan saadakseen valita millainen lapsesta ominaisuuksiltaan tulee. Seulonnalla voidaan vaikuttaa esimerkiksi pituuteen, hiusten väriin ja tottakai esimerkiksi lapsen sukupuoleen. Erään tutkimuksen mukaan mahdollisimman fiksuun lapseen tähdättäessä kymmenen munasolun seulonta nostaa älykkyysosamäärää noin neljällä, kun taas tuhannen munasolun seulonta nostaa lapsen älykkyyttä jo noin 20 äo-pisteettä.
+
+Michael Sandel ennustaa artikkelissaan [The Case Against Perfection](http://www.theatlantic.com/magazine/archive/2004/04/the-case-against-perfection/302927/) tulevaisuuden yhteiskunnallisiksi ongelmiksi muun muassa ihmisaseiden suunnittelun ja huippu-urheilun totaalisen muutoksen. Keinohedelmöitystä johtava lääkäri todennäköisesti auttaa kuuroa tai sokeaa pariskuntaa valitsemaan sellaisen sikiön, joka ei kärsi vanhempiensa fyysisistä ongelmista, mutta entä jos nämä vanhemmat nimenomaan haluavat saada kuuron tai sokean lapsen? Täytyykö vanhempien toiveet vai lapsen hyvinvointi laittaa etusijalle?
+
+Suomessa tottakai perustetaan etujärjestö puhtaasti syntyneille ihmisille, sillä me ilman suunniteltuja parannuksia syntyneet olemme lähtökohtaisesti heikommassa asemassa. Todennäköisesti myös [tietyt muutosta pelkäävät tahot](https://www.perussuomalaiset.fi) varaavat oikeuden kutsua "isäksi" ja "äidiksi" vain perinteisesti miehelle ja naiselle syntyneiden lasten vanhempia. 
+
+Käy tulevaisuudessa kuinka vain, voi olla että uutta kansalaisaloitetta ollaan väsäämässä ennemmin kuin huomataankaan.
