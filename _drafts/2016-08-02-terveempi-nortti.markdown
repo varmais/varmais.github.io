@@ -1,6 +1,8 @@
 ---
 layout: post
+author: 'Teemu Tiilikainen'
 title: Terveempi nörtti
+date: 2016-08-02 19:16:16.000000000 +03:00
 ---
 [Pokemon Go -peli on laittanut ihmiset liikkumaan](http://www.independent.co.uk/arts-entertainment/pokemon-go-central-park-pokestop-gym-nyc-new-york-the-matrix-is-coming-a7132391.html) viime päivien aikana, mutta ennustukseni on ettei [kaikesta hypestä huolimatta](http://www.livescience.com/55373-pokemon-go-exercise.html) pelistä ole pelastamaan nörttien terveyttä. Heti kun ihmiset lakkaavat pelaamasta peliä he palaavat takaisin entisiin elämäntapoihinsa, joihin 10 kilometrin kävelylenkit päivässä eivät valitettavasti kuulu.
 
