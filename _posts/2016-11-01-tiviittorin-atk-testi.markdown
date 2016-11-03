@@ -56,7 +56,7 @@ vaikuttaa jos on käyttänyt jotain muuta vastaavaa sovellusta. Toisten sovellus
 kysymykset valikoista ja niiden sisällöistä on merkityksetöntä knoppitietoa. Tärkeämpää olisi
 pyrkiä mittaamaan ohjelmistojen käyttötaitoja sekä niiden taitojen soveltamista eri työkaluihin.
 
-Olen huomannut oman työurani aikana haastatellessa ja arvioidessa muiden ihmisten taitoja, ettei edes kahden tunnin face-to-face -haastattelussa saa aivan kaikkia kiviä käännettyä henkilön osaamisesta. Tiviittorin testissä oli toki paljon hyviäkin kysymyksiä erityisesti liittyen tietoturvaan ja verkkotyöskentelyyn, sillä niitä asioita on helmpompi arvostella monivalintakysymyksillä. Kokonaisuus jätti kuitenkin paljon parantamisen varaa.
+Olen huomannut oman työurani aikana haastatellessa ja arvioidessa muiden ihmisten taitoja, ettei edes kahden tunnin face-to-face -haastattelussa saa aivan kaikkia kiviä käännettyä henkilön osaamisesta. Tiviittorin testissä oli paljon hyviäkin kysymyksiä, erityisesti tietoturvaan ja verkkotyöskentelyyn liittyvät kysymykset, mutta kokonaisuus jätti kuitenkin paljon parantamisen varaa.
 
 Tämän arvioinnin voi myös ottaa katkeran nörtin avautumisena, koska hän ei tiedä mikä seuraavista 
 ei liity tulostimen asetuksiin: 1) tulostimen valinta, 2) paperin asemointi vai 3) tulostettavien
