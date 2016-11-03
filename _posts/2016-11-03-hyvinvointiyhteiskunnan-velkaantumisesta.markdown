@@ -16,7 +16,7 @@ sitten 1980-luvun, jolloin viimeiset suuret uudistukset tämän hyvinvointiyhtei
 rakentamiseksi tehtiin. 
 
 Eikä tarvitse olla mikään taloustieteilijä, 
-jotta ymmärtää mistä se johtuu: Huohltosuhde on kasvanut nopeasti 
+jotta ymmärtää mistä se johtuu: Huoltosuhde on kasvanut nopeasti 
 (0.15 -> 0.33 1980 lähtien) [ja kasvaa edelleen](http://www.kvartti.fi/fi/artikkelit/elakeikaisen-vaeston-kehitys-helsingissa). 
 Suomen kansalla ei vain yksinkertaisesti ole varaa maksaa saman verran rahaa yksittäiselle 
 sosiaaliturvaa tarvitsevalle, koska sosiaaliturvaa tarvitsevien määrä 
