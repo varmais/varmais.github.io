@@ -57,7 +57,7 @@ tietojen jakaminen eteenpäin on käyttäjän vastuulla.
 - Lähettää kontaktit palvelimelle tiivisteenä (sama tekniikka kuin [digitaalisessa allekirjoituksessa](https://fi.wikipedia.org/wiki/Digitaalinen_allekirjoitus))
 - Sovellus on avointa lähdekoodia, ansainta perustuu lahjoituksiin.
 
-Signal on saman Open Whisperer Systemsin tuottama sovellus kuin on jo aikaisemmin mainittu Signal-protokolla. 
+Signal on saman Open Whisper Systemsin tuottama sovellus kuin on jo aikaisemmin mainittu Signal-protokolla. 
 Sanomattakin on selvää, että myös Signal-sovellus luottaa kyseiseen protokollaan keskusteluiden 
 salaamiseksi. Signal on käytännössä ainoa sovellus tai teknologia, jota voi oikeasti suositella sellaiseen 
 digitaaliseen kanssakäymiseen, jossa yksityisyys ja tietoturva on tärkeää.
