@@ -52,7 +52,7 @@ onnistuttu pitämään niiden yksikköhinta alhaisena. Jos lennokeista tehdään
 nyt käytössä olevasta F/A-18 -hävittäjästä, nousee sen yksikköhinta todella korkeaksi johtuen kalliiden 
 havainnointivälineiden ja tietokoneiden tarpeesta.
 
-![diner-triangle](http://cnqur.com/wp-content/uploads/Fast-Good-or-Cheap.jpeg)
+![diner-triangle](http://i.imgur.com/A8m9eGc.jpg)
 
 Halvimmat lennokit tottakai kalpenevat ominaisuuksissa moderneille monitoimihävittäjille ja melkein tuovat mieleen 
 jenkki-dinereista tutun kuvion (yllä). Yhteen saattaa saada riittävän aselastin, mutta [nopeus jää alle puoleen äänennopeudesta](https://en.wikipedia.org/wiki/General_Atomics_Avenger). 
