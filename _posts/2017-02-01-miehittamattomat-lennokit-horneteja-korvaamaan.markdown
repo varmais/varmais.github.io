@@ -52,16 +52,17 @@ onnistuttu pitämään niiden yksikköhinta alhaisena. Jos lennokeista tehdään
 nyt käytössä olevasta F/A-18 -hävittäjästä, nousee sen yksikköhinta todella korkeaksi johtuen kalliiden 
 havainnointivälineiden ja tietokoneiden tarpeesta.
 
-Halvimmat lennokit tottakai kalpenevat ominaisuuksissa moderneille monitoimihävittäjille. Yhteen saattaa saada 
-vastaavan aselastin, mutta [nopeus jää alle puoleen äänennopeudesta](https://en.wikipedia.org/wiki/General_Atomics_Avenger). 
+![diner-triangle](http://cnqur.com/wp-content/uploads/Fast-Good-or-Cheap.jpeg)
+
+Halvimmat lennokit tottakai kalpenevat ominaisuuksissa moderneille monitoimihävittäjille ja melkein tuovat mieleen 
+jenkki-dinereista tutun kuvion (yllä). Yhteen saattaa saada riittävän aselastin, mutta [nopeus jää alle puoleen äänennopeudesta](https://en.wikipedia.org/wiki/General_Atomics_Avenger). 
 Toisen saattaa saada kulkemaan lähes 20 machia, mutta ne ovat [kertakäyttöisiä ja maksavat 50 miljoonaa kappale](https://en.wikipedia.org/wiki/Hypersonic_Technology_Vehicle_2).
 
 Lennokeista ei myöskään ole vielä taistelemaan ilmaherruudesta. Nykyisellään niitä käytetään lähinnä vain alueilla,
 joilla vastustajan ilmapuolustus on joko tuhottu kokonaan tai on muuten olematonta, ja silti [lennokkeja tippuu
 kuin kärpäsiä](http://www.washingtonpost.com/sf/investigative/2014/06/20/when-drones-fall-from-the-sky/). Ilmaherruuden
-säilyttäminen tai ainakin sen puolustamiseen kykeneminen on puolestaan nykyisen sodankäynnin kulmakivi. Puheet
-esimerkiksi Ruotsin puolustusvoimien Suomea heikommasta iskukyvystä voidaan heittää romukoppaan niin kauan kun 
-heillä on tuplasti Suomea enemmän moderneja hävittäjiä, oli sodanaikainen miesvahvuus mitä hyvänsä. 
+säilyttäminen tai ainakin sen puolustamiseen kykeneminen on kuitenkin nykyisen sodankäynnin kulmakivi. Esimerkiksi niin kauan kun Ruotsin puolustusvoimilla on käytössään tuplasti enemmän moderneja hävittäjiä kuin Suomella, voidaan puheet heidän
+heikommasta iskukyvystä heittää romukoppaan, oli sodanaikainen miesvahvuus mitä hyvänsä.
 
 Sotavälineisiin pätee robotisaation osalta samat säännöt kuin muitakin aloja: Toistuvat rutiinitehtävät tullaan
 automatisoimaan ensin. Siksi lennokeillakin on ja tulee olemaan oma roolinsa sodankäynnissä, muun muassa
