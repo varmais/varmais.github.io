@@ -8,8 +8,8 @@ date: 2017-02-01 19:16:16.000000000 +03:00
 Postausta pukkaa pitkästä aikaa. Aiheena tänään on Puolustusvoimien hävittäjähankinnat ja se miksi nykyisiä
 monitoimihävittäjiä ei ole vielä järkevää korvata miehittämättömillä lennokeilla. Aihe on herättänyt omassa
 tech-orientoituneessa kaveripiirissä paljon keskustelua, ja vaikka ihailen useiden ystävieni positiivista 
-tulevaisuudenkuvaa autonomisten lentolaitteiden osalta, on vielä paljon syitä miksi miehitettyjä sota-laitteita
-vielä tarvitaan.
+tulevaisuudenkuvaa autonomisten lentolaitteiden osalta, on monia syitä miksi miehittämättömät lennokit eivät 
+vielä korvaa miehitettyjä hävittäjiä.
 
 Yksi syistä on yksinkertaisesti se, että ihminen tulee vielä pitkään olemaan huomattavasti parempi sensori ja
 päätöksentekijä kuin tekoäly, joten tunnistamista ja päätöksentekoa hävittäjissä ei voi vielä ulkoistaa koneille.
@@ -64,6 +64,6 @@ kuin kärpäsiä](http://www.washingtonpost.com/sf/investigative/2014/06/20/when
 säilyttäminen tai ainakin sen uskottava puolustus on kuitenkin nykyaikaisen sodankäynnin kulmakivi. Esimerkiksi niin kauan kun Ruotsin puolustusvoimilla on käytössään tuplasti enemmän moderneja hävittäjiä kuin Suomella, voidaan puheet heidän
 heikommasta iskukyvystä heittää romukoppaan, oli sodanaikainen miesvahvuus mitä hyvänsä.
 
-Sotavälineisiin pätee robotisaation osalta samat säännöt kuin muitakin aloja: Toistuvat rutiinitehtävät tullaan
+Sotavälineisiin pätee robotisaation osalta samat säännöt kuin muillakin aloilla: Toistuvat rutiinitehtävät tullaan
 automatisoimaan ensin. Siksi lennokeillakin on ja tulee olemaan oma roolinsa sodankäynnissä, muun muassa
 tiedustelutehtävissä. Suomen puolustusvoimien hävittäjien korvaajaksi niistä ei kuitenkaan vielä ole.
