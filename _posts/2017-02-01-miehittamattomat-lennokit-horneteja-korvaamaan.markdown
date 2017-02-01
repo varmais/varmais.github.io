@@ -61,7 +61,7 @@ Toisen saattaa saada kulkemaan lähes 20 machia, mutta ne ovat [kertakäyttöisi
 Lennokeista ei myöskään ole vielä taistelemaan ilmaherruudesta. Nykyisellään niitä käytetään lähinnä vain alueilla,
 joilla vastustajan ilmapuolustus on joko tuhottu kokonaan tai on muuten olematonta, ja silti [lennokkeja tippuu
 kuin kärpäsiä](http://www.washingtonpost.com/sf/investigative/2014/06/20/when-drones-fall-from-the-sky/). Ilmaherruuden
-säilyttäminen tai ainakin sen puolustamiseen kykeneminen on kuitenkin nykyisen sodankäynnin kulmakivi. Esimerkiksi niin kauan kun Ruotsin puolustusvoimilla on käytössään tuplasti enemmän moderneja hävittäjiä kuin Suomella, voidaan puheet heidän
+säilyttäminen tai ainakin sen uskottava puolustus on kuitenkin nykyaikaisen sodankäynnin kulmakivi. Esimerkiksi niin kauan kun Ruotsin puolustusvoimilla on käytössään tuplasti enemmän moderneja hävittäjiä kuin Suomella, voidaan puheet heidän
 heikommasta iskukyvystä heittää romukoppaan, oli sodanaikainen miesvahvuus mitä hyvänsä.
 
 Sotavälineisiin pätee robotisaation osalta samat säännöt kuin muitakin aloja: Toistuvat rutiinitehtävät tullaan
