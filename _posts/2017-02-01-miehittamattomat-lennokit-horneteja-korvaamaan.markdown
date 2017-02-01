@@ -28,7 +28,7 @@ matkustajaliikenne kulkisi ilman lentäjiä, saatika sitten kone täynnä aseita
 ohjatuissa lennokeissakin silloin, kun yhteys maassa olevan lentäjän ja lennokin välillä katkeaa. 
 
 2) Taktinen tehtävien suorittaminen
-- Eli adaptoituminen nopeasti muuttuviin tilanteisiin. Lennokin tulisi osata itsenäisesti huomata muuttuneet
+- Eli adaptoituminen nopeasti muuttuviin tilanteisiin. Lennokin tulisi osata itsenäisesti havaita muuttuneet
 olosuhteet ja mukautua niihin, jopa osata toimia vastoin annettuja ohjeita.
 
 3) Aseiden käyttö
