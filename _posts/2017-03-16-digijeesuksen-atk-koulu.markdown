@@ -3,6 +3,7 @@ layout: post
 author: 'Teemu Tiilikainen'
 title: Digijeesuksen ATK-koulu
 date: 2017-03-16 10:16:16.000000000 +03:00
+header-img: img/education.jpg
 ---
 
 Suomessa on tällä hetkellä [7 000 ohjelmistokehittäjän vaje](http://fortune.com/2016/06/14/finland-has-7000-programmer-jobs-to-fill/). 
