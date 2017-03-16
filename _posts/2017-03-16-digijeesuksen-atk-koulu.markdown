@@ -18,7 +18,7 @@ Ohjelmistokehitystä voi opetella aivan kuten muitakin ammatteja: se vaatii työ
 Toisin kuin yleisesti luullaan, se ei sisällä mitään taikatemppuja, jonka vuoksi opetteleminen olisi 
 mahdotonta, ellei ole harrastanut ATK:ta pienestä pitäen. 
 
-Koulusa sitä ei välttämättä kannata opiskella, sillä edes korkeakoulut eivät aina anna hyviä 
+Koulussa ohjelmistokehitystä ei välttämättä kannata opiskella, sillä edes korkeakoulut eivät aina anna hyviä 
 valmiuksia työelämää ajatellen. Lisäksi täyspäiväiseksi opiskelijaksi ryhtyminen vaikuttaa saataviin 
 tukiin ja muihin tulonlähteisiin negatiivisesti. Internetistä löytyy useita yliopistotason kursseja ja
 opintopolkuja, joita sopivasti yhdistelemällä saa parempaa koulutusta kuin kotimaisista korkeakouluista.
