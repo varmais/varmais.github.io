@@ -14,13 +14,13 @@ varsinkin jos sattuu nauttimaan työttömyyskassan laveaa päivärahaa. Työllis
 tulevaisuuteen ovat loistavat ja opettelemalla ohjelmistokehitystä laajentaa omaa piiriä, josta hakea töitä.
 
 Ohjelmistokehitystä voi opetella aivan kuten muitakin ammatteja: se vaatii työtä, itsekuria ja toistoja. 
-Toisin kuin yleisesti luullaan, se ei sisällä mitään taikatemppuja, jonka vuoksi sen opetteleminen olisi 
-mahdotonta, ellei harrastanut ATK:ta pienestä pitäen. 
+Toisin kuin yleisesti luullaan, se ei sisällä mitään taikatemppuja, jonka vuoksi opetteleminen olisi 
+mahdotonta, ellei ole harrastanut ATK:ta pienestä pitäen. 
 
-Kouluun sitä ei kuitenkaan kannata mennä opiskelemaan, sillä edes korkeakoulut eivät välttämättä anna hyviä 
+Koulusa sitä ei välttämättä kannata opiskella, sillä edes korkeakoulut eivät aina anna hyviä 
 valmiuksia työelämää ajatellen. Lisäksi täyspäiväiseksi opiskelijaksi ryhtyminen vaikuttaa saataviin 
 tukiin ja muihin tulonlähteisiin negatiivisesti. Internetistä löytyy useita yliopistotason kursseja ja
-opintopolkuja, joita sopivasti yhdistelemällä saa jopa parempaa koulutusta kuin kotimaisista korkeakouluista.
+opintopolkuja, joita sopivasti yhdistelemällä saa parempaa koulutusta kuin kotimaisista korkeakouluista.
 
 ATK-alan tutkinnolla voi  käytännössä muutenkin heittää vesilintua. Tämä ala on pääosin rehellinen käsityöammatti, 
 jossa ainoastaan henkilön osaamisella ja työhistorialla on merkitystä teknistä kompetenssia mitattaessa. 
@@ -30,7 +30,7 @@ huomattavasti nopeammin kuin yksin puurtaessa.
 Ohjelmistokehitys ja muut ATK-alan työt eivät välttämättä ole paikkasidonnaisia. Etätyökaluja käytetään tehokkaasti
 hyväksi ja omaa osaamista voi myydä myös Suomen ulkopuolelle. Maailmasta löytyy kolkkia, joille suomalainen 
 osaaminen on halpatyövoimaa. Vaikka alan työpaikat ovat vahvasti painottuneet Pääkaupunkiseudulle, niitä voi 
-kuitenkin tehdä mistä päin Suomea, kunhan saatavilla on luotettava internetyhteys. Useilla alan johtavilla 
+kuitenkin tehdä mistä päin Suomea tahansa, kunhan saatavilla on luotettava internetyhteys. Useilla alan johtavilla 
 yrityksillä onkin toimistoja pitkin Suomenmaata, ja [lisää tulee kaiken aikaa](http://vincitturku.fi/). [Alueellisen
 liikkumattomuuden](https://www.labour.fi/ptblogi/2016/10/28/tyomarkkinoiden-rakennemuutos-ja-kohtaanto-ongelma-lisaa-alueellista-liikkuvuutta/) ei pitäisi olla tämän alan kohtaanto-ongelma.
 
@@ -45,9 +45,9 @@ ja homma toimii näin:
 - Koko viiden vuoden ajan ja erityisesti ensimmäisen vuoden aikana olen käytettävissä henkilökohtaisena valmentajana, joka muun muassa antaa palautetta koodikatselmointien muodossa, tsemppaa kurssien kanssa sekä auttaa ongelmissa ja työnhaussa.
 - Vastineeksi Digijeesuksen ATK-kouluun osallistumisesta henkilö maksaa minulle 4 % vuosituloistaan kahden vuoden ajan työllistymisajankohdasta lähtien. 
 
-Ohjelman suorittaneiden realistinen kuukausiansiotavoite vuoden päästä työllistymisestä on 
-noin 3000 € luokkaa ja viiden vuoden päästä noin 5000 € luokkaa. Työsuhteet ovat pääsääntöisesti
+Ohjelman suorittaneiden realistinen kuukausiansiotavoite vuoden päästä työllistymisestä on
+3000 € luokkaa ja viiden vuoden päästä noin 5000 €. Työsuhteet ovat pääsääntöisesti
 vakituisia ja muutaman vuoden kynsien teroittelun jälkeen voi siirtyä laskuttamaan tuplahintaa oman yrityksen kautta. 
-Riskiä yritystoiminnassa ei käytännössä ole, sillä hankinnat koostuvat lähinnä läppäristä ja keikkaa löytyy osaajavajeesta johtuen.
+Riskejä yritystoiminnassa ei käytännössä ole, sillä hankinnat koostuvat lähinnä läppäristä ja keikkaa löytyy osaajavajeesta johtuen.
 
-Tässä luulisi olevan tarpeeksi motivaatiota uuden alan opiskeluun.
+Tässä luulisi olevan tarpeeksi motivaatiota uuden alan opiskeluun. Ilmoittautumiset teemu@rebase-i.com.
