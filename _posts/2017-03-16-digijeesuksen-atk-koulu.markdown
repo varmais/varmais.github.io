@@ -6,6 +6,8 @@ date: 2017-03-16 10:16:16.000000000 +03:00
 header-img: img/education.jpg
 ---
 
+**"Pukumiehestä pikimieheksi – käsienheiluttelijasta tekijäksi!"** - *Samuli Hakoniemi*
+
 Suomessa on tällä hetkellä [7 000 ohjelmistokehittäjän vaje](http://fortune.com/2016/06/14/finland-has-7000-programmer-jobs-to-fill/). 
 Tämä ja vajeen [tuplaantuminen muutamassa vuodessa 15 000 henkilöön](http://tivia.fi/lehdistotiedote/ohjelmisto-osaaminen-suomen-talouskasvun-ja-uudistumisen-jarruna) 
 on todettu [mediassa useaan otteeseen](http://www.kauppalehti.fi/uutiset/suomi-karsii-pian-15-000-koodarin-vajeesta---kansantaloudellinen-kustannus-vuositasolla-noin-3-4-miljardia/ywtYbG5W). 
