@@ -18,7 +18,7 @@ Kieli muokkautuu kulttuurin mukaan ja kulttuurista voi oppia paljon tutkimalla s
 
 > Lol Augustus senkin noob! Spartta laiset vittuun ateenasta!!
 
-Tänä päivänä internetissä käytävä retoriikka on pääsääntöisesti niin huonoa, että Platon häpeäisi silmät päästään. Teknologia kehittyy kuitenkin ihmisiä nopeammin ja kasvukivut ovat välttämättömiä. Minulla riittää kuitenkin vielä uskoa ihmiskuntaan ja siihen että tulevat sukupolvet löytävät vuosisatoja kadoksissa olleen retoriikan taidon uudelleen. Kun ihmiset oppivat uudelleen ilmaisemaan itseään ja perustelemaan omia mielipiteitään, niin väistämättä myös muiden ihmisten ymmärtäminen helpottuu, eikä maailma olekaan enää niin musta-valkoinen.
+Tänä päivänä internetissä käytävä retoriikka on pääsääntöisesti niin huonoa, että Platon häpeäisi silmät päästään. Teknologia kehittyy kuitenkin ihmisiä nopeammin ja kasvukivut ovat välttämättömiä. Minulla riittää kuitenkin vielä uskoa ihmiskuntaan ja siihen että tulevat sukupolvet löytävät vuosisatoja kadoksissa olleen retoriikan taidon uudelleen. Kun ihmiset oppivat uudelleen ilmaisemaan itseään ja perustelemaan omia mielipiteitään, niin väistämättä myös muiden ihmisten ymmärtäminen helpottuu, eikä maailma olekaan enää niin mustavalkoinen.
 
 Ehkä meillä vielä on toivoa.
 
