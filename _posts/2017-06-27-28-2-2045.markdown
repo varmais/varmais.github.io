@@ -1,0 +1,46 @@
+---
+layout: post
+author: 'Teemu Tiilikainen'
+title: 2 x 28 vuotta = 2045
+date: 2017-06-27 09:16:16.000000000 +03:00
+---
+
+28 vuotta taulussa ja sen huomaa. Paljon on tapahtunut tänä aikana kun olen ollut olemassa. Muistan varmaan ikuisesti puhelinnumeron lapsuudenkodin lankapuhelimeen, koska silloin ei varsinaisesti kannettu taskussa tietokoneita loputtoman kokoisella osoitekirjalla ja pääsyllä kaikkeen maailman tietoon. Vielä enemmän tulee kuitenkin tapahtumaan seuraavan 28 vuoden aikana, koska kehitys kehittyy exponentiaalisesti ja uudet keksinnöt lepäävät vanhojen harteilla.
+
+Tässä lista ennustuksista, joita uskon tapahtuvaksi ennen vuotta 2045:
+
+**Lukemattomia työpaikkoja tullaan menettämään automaatiolle**
+
+Yksinkertaiset ja rutiininomaiset työt ovat jo nyt kovaa vauhtia katoamassa. Samaan aikaan työn merkitys ja määritelmä tulee muuttumaan, sillä perinteistä työtä ei tule riittämään kaikille. Yhä useampi ihminen joutuu etsimään merkitystä elämäänsä työpaikan ulkopuolelta, eikä muutos tule olemaan helppo. Automaation vuoksi (tai ansiosta, riippuu kuinka paljon pidät työn tekemisestä) manuaalisen työn tarve vähenee ja se laskee tuotantokustannuksia, joka puolestaan helpottaa hieman työttömien elämää. 
+
+Paljon on puhuttu myös [verotuksesta tulevassa työelämässä](https://suomenkuvalehti.fi/jutut/kotimaa/mielipide-kotimaa/kuka-maksaa-verot-kun-robotit-tekevat-tyot/?shared=974518-9b6cfa76-4). Itse uskon, että kun yhä suurempi osa voitoista valuu koneiden/robottien/tuotannon omistajille, oikea ratkaisu on hajauttaa omistamista sen sijaan, että verotettaisiin robotteja tai yksittäisiä omistajia 99% veroprosentilla. Automaation ja perustulon myötä kommunismi saattaa nähdä uuden tulemisen jossain muodossa.
+
+**...silti ihmiset rakastuvat robotteihin**
+
+Vuoteen 2045 mennessä robotit auttavat ihmisiä myös kotona, ja uusi avioliittolakikeskustelu keskittyy siihen saako ihminen saattaa robotin avioliiton satamaan. Robotit auttavat yksinäisiä ihmisiä sosiaalisissa ja seksuaalisissa asioissa ja tarjoavat kumppanuutta niille, joille niiden löytäminen muuten tuottaa syystä tai toisesta vaikeuksia.
+
+Yhä useampi ihminen myös kehittää omaa kehoaan lisäämällä siihen uusia ominaisuuksia tai parantamalla vanhoja. Minä käsittelen kehoa vain aluksena, jonka avulla kuljen ja toimin tässä elämässä, enkä pidä [antennia jonka avulla voi kuulla värejä](https://www.theguardian.com/artanddesign/2014/may/06/neil-harbisson-worlds-first-cyborg-artist) laserleikkausta tai sydämentahdistinta kummallisempana asiana. Toi kaveri sai muuten pitää antennia myös passikuvassa, joten hän on kai nyt virallisesti maailman ensimmäinen kyborgi.
+
+**Tiede ottaa roolia vauvojen tekemisestä**
+
+Kirjoitin jo aikaisemmin, kuinka [tulevaisuudessa voidaan luoda sukusoluja ihmisen kantasoluista](http://varmais.fi/2016/05/18/aitiyslaki-ja-isat-lesboperheissa/). Miehille tämä on lievä uhka, sillä naisparit voivat saada vain naispuolisia vauvoja, jos käytetään pariskunnan omia soluja. Kaikki eivät välttämättä pidä ajatuksesta, että vauvoja voidaan suunnitella geenien tasolla. Mielestäni on kuiteknin parempi korjata likinäkö jo lähtömerkeillä, eikä kalliilla leikkausoperaatiolla jälkikäteen. Samalla voidaan valita myös muita ominaisuuksia, kuten sukupuoli ja hiusten väri.
+
+**Pankkipalvelut tulevat muuttumaan rajusti**
+
+Käteinen katoaa kehittyvistä maista ennen teollisuusmaita johtuen huonosta nykyisestä pankki-infrastruktuurista. Mobiilipankkipalveluiden ja tulevien blockchain-sovellusten myötä kehittyvät maat jättävät kokonaan väliin vaiheen, jossa kannetaan hiekkaa konttorin lattialle. Afrikasta voi jo alkaa metsästämään seuraavia trendejä pankki- ja vakuutusaloille. Nyt tekstiviestitse saa ehkä kulkemaan vain rahaa, mutta tulevaisuudessa se voi olla mitä vain eläkesäästämisestä vakuutuksiin (tai jotain muuta?).
+
+**Energiantuotannossa kaksi suurta merkkipaalua**
+
+Tuuli- ja aurinkovoiman tekniikoiden kehittymisen ja halventumisen ansiosta läpimurto puhtaan energian tuotannossa tapahtuu jo paljon aikaisemmin, mutta 2045 mennessä [puhtaan energian kehitys on siinä pisteessä](http://www.wired.co.uk/article/nuclear-fusion-closer), että myös fuusioteknologiat on saatu tuotantovalmiiksi.
+
+Erityisesti aurinkovoima tulee olemaan isossa roolissa ilmastonmuutoksen hidastamisessa, mutta vasta fuusiovoiman kehittymisen myötä ihmiskunta voi ottaa seuraavan askeleen. Sen sijaan että tultaisiin toimeen puhtaan energian voimin, siitä tulee olemaan ylitarjontaa. Energiaintensiiviset projektit, kuten meriveden tislaaminen juomavedeksi, tulevat olemaan taloudellisesti kannattavia. Tämä avaa uusia mahdollisuuksia lähes jokaisella teollisuuden alalla.
+
+**Ihminen on käynyt Marsissa**
+
+Jee! Viimein.
+
+**Ylipäätänsä kaikki on hiton paljon paremmin**
+
+2045 maailmassa ei ole enää köyhiksi luokiteltavia maita. Ruokaa ja vettä riittää kaikille. Sodissa ja muissa kriiseissä kuolee paljon vähemmän ihmisiä. Lapsikuolleisuus on laskenut. Useat taudit on onnistuttu hävittämään. Ja muita pikkujuttuja.
+
+Ehkä ihmiset jopa valittavat hieman vähemmän arkipäivän ongelmista.
