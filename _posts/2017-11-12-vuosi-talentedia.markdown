@@ -2,7 +2,7 @@
 layout: post
 author: 'Teemu Tiilikainen'
 title: Vuosi Talentedia – How I Learned to Stop Worrying and Love the Recruitment
-date: 2017-03-16 10:16:16.000000000 +03:00
+date: 2017-11-12 14:16:16.000000000 +02:00
 header-img: img/join-our-ranks.jpg
 ---
 
