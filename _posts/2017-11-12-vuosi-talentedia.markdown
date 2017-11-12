@@ -22,7 +22,13 @@ Vuoden aikana myös Talented on kasvanut yrityksenä huimaa vauhtia. Tiimiin on 
 
 Näin keikkatyöläistenkin aikana työpaikan vaihto on varmasti yksi suurimpia päätöksiä elämässä. Parasta Talentedissa on ollut kliseisesti se, ettei mikään päivä ole ollut samanlainen. Joka päivä tapaa uusia ihmisiä, joilta oppii uusia asioita alasta ja elämästä. Olen ollut lyhyen urani aikana rakentamassa palveluita, joita kymmenet miljoonat ihmiset käyttävät päivittäin. Mikään ei kuitenkaan voita sitä tunnetta, kun olet onnistunut auttamaan yksittäistä ihmistä isossa päätöksessä ja saat siitä henkilökohtaista kiitosta.
 
-Jotta voimme saarnata muille yrityksille työelämän ja rekrytoinnin trendeistä ja käytännöistä, tulee meidän itse olla maailman paras työpaikka. Tarvitaan kuitenkin lisää kavereita tätä konseptia rakentamaan.
+Jotta voimme saarnata muille yrityksille työelämän ja rekrytoinnin trendeistä ja käytännöistä, tulee meidän itse olla maailman paras työpaikka. Tarvitsemme kuitenkin lisää kavereita rakentamaan tätä konseptia. 
+
+Minkälaista työtä sitten on luvassa? Kuten kaikissa moderneissa työyhteisöissä, meilläkään ei kukaan voi keskittyä tekemään yksittäistä asiaa, vaan töitä tehdään useammassa rajapinnassa. Rooli kuin rooli sisältää monipuolisesti rekrytointia, myyntiä ja asiakaspalvelua. Jokainen talentedilainen työskentelee yritysten ja osaajien keskellä vaihtelevilla painopisteillä. Autamme kovimpia IT-alan osaajia ja työskentelemme maailman arvostetuimpien työnantajien kanssa. Välittömästi haussa on ainakin seuraaviin alueisiin keskittyviä henkilöitä:
+
+1. Moniosaajia avaamaan toimistoja ja viemään Talented-konseptia ulkomaille, pääpainona tällä hetkellä Amsterdam, New York (Manhattan), Tukholma ja Berliini. Työtehtävät painottuvat alueen arvostetuimpien työantajien tapaamiseen, paikallisten osaajien kanssa verkostoitumiseen sekä paikallisen Talented-tiimin kasaamiseen. 
+2. Talent Agentia rekrytointitiimiimme. Tehtävänä on auttaa todella talenttejamme parhaan työpaikan löytämisessä, antaa uraohjausta ja muutenkin auttaa heitä kaikessa työelämään liittyvissä asioissa.
+3. Researchereita auttamaan rekrytoinnin liiketoimintaa kohdennetuilla markkinointitoimenpiteillä, jossa keskeisenä roolina on viestiä osaajille Talented-yhteisön tarjoamista palveluista ja kasvattaa tätä yhteisöä kutsumalla ihmisiä mukaan.
 
 Jos sinä tai joku sinun kaverisi haluaa olla keihäänkärkenä rakentamassa IT-alan asiantuntijoille parempia palveluita, laita [ihmeessä hakemus](http://talented.fi/careers/) tai kysy minulta rohkeasti lisäinfoa. Tärkeimmät ominaisuudet, joita me vaadimme kaikilta talentedilaisilta, on empaattisuus, oma-aloitteisuus ja ihmistuntemus. Muuten jokainen meistä saa tietyissä rajoissa rakentaa oman työnkuvansa, varsinkin jos pystyy osoittamaan omat kykynsä.
 
