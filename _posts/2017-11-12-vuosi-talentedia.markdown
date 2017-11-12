@@ -1,0 +1,27 @@
+---
+layout: post
+author: 'Teemu Tiilikainen'
+title: Vuosi Talentedia – How I Learned to Stop Worrying and Love the Recruitment
+date: 2017-03-16 10:16:16.000000000 +03:00
+header-img: img/join-our-ranks.jpg
+---
+
+Vasta reilu vuosi takana, mutta paljon asioita ja tapahtumia on mahtunut kuluneeseen vuoteen. Uskon, että suurin osa kavereista ja sukulaisista ei vieläkään edes tiedä, mitä oikeastaan teen työkseni. Välillä en toisaalta tiedä sitä itsekään. Kun tekee jotain aivan uudenlaista, on joskus vaikea kuvailla jokapäiväistä tekemistä.
+
+Muistan, kun elokuussa 2016 käytiin Harrin kanssa lounaalla ja hän nosti puheeksi rekrytointiyrityksen perustamisen ja siihen tiimin kasaamisen. Hetken aikaa olin aika hölmistynyt, kun en ollut varma tajusiko tuo vanha työkaveri mistä oli puhumassa. Oma tilanne siihen aikaan oli sellainen, että konsulttihommia tehdessä sain päivittäin puheluita ja sähköpostiviestejä headhuntereilta ja firmojen HR-henkilöiltä, jotka olivat vailla palveluksiani milloin millaiseen projektiin. Sanomattakin selvää oli, että pidin jopa puhelinmyyjistä enemmän kuin rekrytointialan ammattilaisista. Tiesin kyllä että Harri on kotoisin Rovaniemeltä, mutta sillä hetkellä olisin mielelläni ottanut satasella samoja nappeja kuin hän.
+
+Muutamien keskusteluiden ja muiden mukana olleiden ihmisten tapaamisen jälkeen idea alkoi kuitenkin muotoutua ja selventyä päässäni: tässä ollaan tekemässä asioita aivan uudenlaisesta kulmasta. Sen sijaan että keskitytään palvelemaan yritysten tarpeita hinnalla millä hyvänsä, laitetaan ihminen sekä hänen tarpeensa ja toiveensa toiminnan keskiöön.
+
+Ensimmäiset kuukaudet meni kuin siivillä liiketoimintamallia hioessa ja tulevia kumppaniyrityksiä tavatessa, ja oikeastaan vasta 2017 puolella päästiin oikeasti vauhtiin. Omaan toimenkuvaan on oikeastaan koko vuoden kuulunut ihmisten tapaaminen ja heidän ajatusten tulkitseminen, jotta osaamme auttaa heitä löytämään juuri oikeanlaisen työpaikan. Silloin tällöin ehdin myös edelleen koodaamaan ja auttamaan muita talentedilaisia heidän ongelmissa, joita voi helpottaa ATK:lla.
+
+Käytännössä kenelläkään meistä alusta lähtien mukana olleista ei ollut aikaisempaa kokemusta HR- tai rekrytointityöstä. En tiedä oliko se uhka vai mahdollisuus, mutta Talentedin kasvuvauhdista ja tunnettuudesta päätellen jotain ollaan tehty oikein. Joka kuukausi autetaan yhä useampia henkilöitä sopivan työpaikan löytämisessä ja tavataan lisää yrityksiä, jotka ovat kuulleet meistä hyvää. Parasta on ollut huomata, että samalla kentällä toimivat yritykset ovat ottaneet meistä mallia ja lähteneet kehittämään myös omaa toimintaansa parempaan suuntaan.
+
+Vuoden aikana myös Talented on kasvanut yrityksenä huimaa vauhtia. Tiimiin on tullut täytettä joka kuukausi ja liikevaihdollisesti ollaan jo nyt isoin yritys, jossa olen ollut ATK:ta tekemässä. Liiketoimintamalli on todistettu toimivaksi ja katse tähyää ulkomaille. Jotta kasvutahti voidaan pitää yllä, etsimme koko ajan lisää osaavia tyyppejä mukaan jengiin.
+
+Näin keikkatyöläistenkin aikana työpaikan vaihto on varmasti yksi suurimpia päätöksiä elämässä. Parasta Talentedissa on ollut kliseisesti se, ettei mikään päivä ole ollut samanlainen. Joka päivä tapaa uusia ihmisiä, joilta oppii uusia asioita alasta ja elämästä. Olen ollut lyhyen urani aikana rakentamassa palveluita, joita kymmenet miljoonat ihmiset käyttävät päivittäin. Mikään ei kuitenkaan voita sitä tunnetta, kun olet onnistunut auttamaan yksittäistä ihmistä isossa päätöksessä ja saat siitä henkilökohtaista kiitosta.
+
+Jotta voimme saarnata muille yrityksille työelämän ja rekrytoinnin trendeistä ja käytännöistä, tulee meidän itse olla maailman paras työpaikka. Kaipaan kuitenkin lisää kavereita tätä konseptia rakentamaan.
+
+Jos sinä tai joku sinun kaverisi haluaa olla keihäänkärkenä rakentamassa IT-alan asiantuntijoille parempia palveluita, laita ihmeessä hakemus (http://talented.fi/careers/) tai kysy minulta rohkeasti lisäinfoa. Tärkeimmät ominaisuudet, joita me vaadimme kaikilta Talentedilaisilta, on empaattisuus, oma-aloitteisuus ja ihmistuntemus. Muuten jokainen meistä saa tietyissä rajoissa rakentaa oman työnkuvansa, varsinkin jos pystyy osoittamaan omat kykynsä.
+
+Tervetuloa mukaan matkalle.
