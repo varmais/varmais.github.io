@@ -26,4 +26,4 @@ Jotta voimme saarnata muille yrityksille työelämän ja rekrytoinnin trendeist�
 
 Jos sinä tai joku sinun kaverisi haluaa olla keihäänkärkenä rakentamassa IT-alan asiantuntijoille parempia palveluita, laita [ihmeessä hakemus](http://talented.fi/careers/) tai kysy minulta rohkeasti lisäinfoa. Tärkeimmät ominaisuudet, joita me vaadimme kaikilta talentedilaisilta, on empaattisuus, oma-aloitteisuus ja ihmistuntemus. Muuten jokainen meistä saa tietyissä rajoissa rakentaa oman työnkuvansa, varsinkin jos pystyy osoittamaan omat kykynsä.
 
-Tervetuloa mukaan matkalle – https://talented.fi.
+Tervetuloa mukaan matkalle – [talented.fi](https://talented.fi).
