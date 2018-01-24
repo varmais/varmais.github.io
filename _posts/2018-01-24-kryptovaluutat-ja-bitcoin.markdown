@@ -33,20 +33,20 @@ Jokainen voi edellä luetelluista esimerkeistä ja työpaikan lounaskeskusteluis
 
 Bitcoinien arvo tulee varmasti vielä nousemaan lyhyellä aikavälillä, jossei muuten niin ihmisten ahneuden vuoksi. Jos sinun on kuitenkin aivan pakko päästä kryptovaluuttoihin mukaan, on jo nyt olemassa parempia ja kestävämpiä vaihtoehtoja pidemmällä tähtäimellä toimivalle sijoittajalle.
 
-**Ethereum**
+**Ethereum**  
 Jos haluat oikeasti *käyttää* kryptovaluuttaa, valitse Ethereum. Sen uudistettu teknologia tekee siitä nopeamman ja halvemman kuin Bitcoin. Ethereumkin tulee jossain vaiheessa [törmäämään skaalausongelmiin](https://medium.com/@teempai/directory-of-alternative-cryptoeconomic-networks-and-why-they-matter-8448e22168a), mutta tuo hetki ei ole aivan heti käsillä.
 
-**Ripple**
+**Ripple**  
 Mielestäni tällä hetkellä paras sijoituskohde kryptovaluutoista. Käyttäjinä on suuria pankkeja muun muassa Aasiasta ja jenkeistä. Sen sijaan että Ripple olisi todella desentralisoitu kuten Bitcoin, se on yksityisesti omistettu. Tämä mahdollistaa nopeammat päivitykset, eikä Ripplessä pitäisi syntyä kiistoja teknologiasta. Ilmeisesti Ripplen louhintaankin on vielä järkevää osallistua.
 
-**Litecoin**
+**Litecoin**  
 Hyvin samanlainen kuin Bitcoin, mutta mainostaa itseään neljä kertaa paremmaksi. Eli Litecoineja on markkinoilla neljä kertaa enemmän ja transaktiot ovat neljä kertaa nopeampia.
 
-**M**onero
+**Monero**  
 Rikollisiin toimiin huomattavasti parempi vaihtoehto kuin Bitcoin, koska transaktiot ovat privaatteja. Näin muilla käyttäjillä ei ole tiedossa mitä transaktioita on toteutettu.
 
-Yleisesti ottaen kryptovaluuttoihin sijoittamiseen pätee sama lainalaisuus kuin muuhunkin sijoitustoimintaan: *Jos se kuulostaa liian hyvältä ollakseen totta, se todennäköisesti myös on.*
+Yleisesti ottaen kryptovaluuttoihin sijoittamiseen pätee sama lainalaisuus kuin muuhunkin sijoitustoimintaan: **Jos se kuulostaa liian hyvältä ollakseen totta, se todennäköisesti myös on.**
 
 Kun lähdet sijoittamaan uuteen kohteeseen, kannattaa perehtyä tarkoin olemassa olevaan taustamateriaaliin ja mahdollisuuksien mukaan keskustella alan asiantuntijoiden kanssa. Tuotteen laatu ja kilpailutilanne on hyvä selvittää ja pohtia kenellä on päätäntävalta tuotteeseen ja sen tulevaisuuteen, sekä kuinka paljon luotat näihin tahoihin. Myös käyttämäsi kauppapaikan ja sen raportointimenetelmien luotettavuuden selvittäminen kannattaa.
 
-Tärkein neuvo kryptovaluuttojen kaltaisten korkeiden riskien sijoituskohteisiin on: *älä sijoita sitä mitä taloutesi ei kestä menettää*.
+[Älä sijoita sitä mitä taloutesi ei kestä menettää](https://www.cnbc.com/2017/12/11/people-are-taking-out-mortgages-to-buy-bitcoin-says-joseph-borg.html).
