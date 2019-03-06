@@ -31,7 +31,7 @@ Calm tarjoaa useita ohjattuja harjoituksia auttamaan ihmisiä tuomaan lisää re
 
 **10% Happier**
 
-Jos et ole varma miksi kokeilla meditaatiota, niin aloita tästä. 10 % Happier on tarkoitettu skeptikoille, jotka haluavat testata meditointia, mutta haluavat helppoa ja käytännöllistä sisältöä. Sovellus tarjoaa viikoittain vaihtuvaa sisältöä ja auttaa erityisesti ahdistuks- ja uniongelmissa.
+Jos et ole varma miksi kokeilla meditaatiota, niin aloita tästä. 10 % Happier on tarkoitettu skeptikoille, jotka haluavat testata meditointia, mutta haluavat helppoa ja käytännöllistä sisältöä. Sovellus tarjoaa viikoittain vaihtuvia harjoituksia ja auttaa erityisesti ahdistus- ja uniongelmissa.
 
 **Waking Up with Sam Harris**
 
