@@ -5,10 +5,6 @@ title: Getting Things Done
 date: 2018-09-20 15:16:35.000000000 +02:00
 ---
 
-Tämä kirjoitus perustuu Talentedin kuukausikokouksessa pitämääni [*Getting Things Done -koulutukseen*](https://slides.com/varmais/gtd).
-
----
-
 Ihmisen mieli on huomattavasti parempi keksimään ideoita kuin säilyttämään niitä. [Getting Things Done](https://gettingthingsdone.com) on David Allenin 2000-luvun alussa asiantuntijatyöhön keksimä järjestelmä, jonka tarkoituksena on helpottaa kognitiivista painolastia asioiden ja ideoiden säilyttämisessä. Omaa elämääni GTD on mullistanut paitsi järjestelmänä, niin myös mindsettinä. 
 
 GTD:stä järjestelmänä ei puhuta enää paljon, koska 20 vuoden aikana on tullut kaikenlaisia "automaattisia" productivity-systeemejä ja -palveluita, jotka lupaavat kuun taivaalta. Monet näistä järjestelmistä eivät kuitenkaan ole yhtä tehokkaita, koska ne saavat ihmisen kuvittelemaan itsessään järjestelmän organisoivan kaiken työn, mikä kuitenkin on lähes mahdotonta.
@@ -69,3 +65,7 @@ Luettavaa:
 
 - [A Beginners Guide to Getting Things Done](https://blog.zenkit.com/a-beginners-guide-to-getting-things-done-3cc1a5123b98)
 - [Gettings Things Done, Ten Years In](https://lifehacker.com/getting-things-done-ten-years-in-1795707084)
+
+---
+
+*Kirjoitus perustuu Talentedin kuukausikokouksessa pitämääni [*Getting Things Done -koulutukseen*](https://slides.com/varmais/gtd).*

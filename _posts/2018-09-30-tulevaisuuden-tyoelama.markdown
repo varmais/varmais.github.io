@@ -5,10 +5,6 @@ title: Tulevaisuuden työelämä
 date: 2018-09-30 11:56:36.000000000 +02:00
 ---
 
-Oheinen teksti on kirjoitettu [PolkuES 2018 -tapahtumassa](https://polku.es/2018/) pitämäni [Tulevaisuuden työelämä -puheen](https://slides.com/varmais/tulevaisuuden-tyoelama/) pohjalta.
-
----
-
 ### Miten digitalisaatio tulee muuttamaan työelämää?
 
 Usein kun puhutaan digitalisaation vaikutuksesta työelämään herää kysymys tarvitseeko kaikkien osata koodata? Jos tarkastellaan koodaamisen historiaa, niin 1960-luvulla koodaamisella tarkoitettiin reikien tekemistä paperilapuille, joilla sitten ohjailtiin tietokonetta. Data oli konkreettista ja käyttäjän tuli ymmärtää tietokoneen toimintaa todella hyvin saadakseen järkeviä tuloksia koneesta ulos.
@@ -51,3 +47,7 @@ Sosiaaliturvan tulee myös muuttua. Verkossa ja verkostoissa tapahtuva ansainta 
 **Kasvata sosiaalista pääomaa.** Me luotamme ihmiseen jonka tunnemme ja kenen taidot tiedämme. Verkostoitumisesta puhutaan paljon, ja silti sen merkitystä monesti aliarvioidaan. Vaikka työskentelisit paljon verkossa, tarvitset silti verkostoa. 
 
 **Uskalla unelmoida.** Tulevaisuuden unelmatyöpaikkoja ei enää löydetä, ne luodaan.
+
+---
+
+*Teksti on kirjoitettu [PolkuES 2018 -tapahtumassa](https://polku.es/2018/) pitämäni [Tulevaisuuden työelämä -puheen](https://slides.com/varmais/tulevaisuuden-tyoelama/) pohjalta.*

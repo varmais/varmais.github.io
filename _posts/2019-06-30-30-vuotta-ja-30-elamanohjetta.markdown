@@ -5,7 +5,7 @@ title: 30 vuotta ja 30 elämänohjetta
 date: 2019-06-30 11:56:36.000000000 +02:00
 ---
 
-Alla oleva teksti on kirjoitettu 30-vuotissyntymäpäivilläni pidetyn puheen perusteella.
+*Teksti on kirjoitettu 30-vuotissyntymäpäivilläni pitämäni puheen pohjalta.*
 
 ---
 

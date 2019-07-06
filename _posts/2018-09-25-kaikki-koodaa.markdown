@@ -5,10 +5,6 @@ title: Kaikki koodaa(?)
 date: 2018-09-25 11:16:35.000000000 +02:00
 ---
 
-Oheinen teksti on kirjoitettu [Tradenomiliiton LevelUp! -seminaarissa](https://tapahtumakalenteri.tral.fi/tapahtumat/tradenomi-level-up-seminaari/) pitämäni [Kaikki koodaa -esityksen](https://slides.com/varmais/kaikki-koodaa) pohjalta.
-
----
-
 Monesti kun puhutaan digitalisaation vaikutuksesta työelämään herää kysymys tarvitseeko kaikkien osata koodata? Jos tarkastellaan koodaamisen historiaa, niin 1960-luvulla koodaamisella tarkoitettiin reikien tekemistä paperilapuille, joilla sitten ohjailtiin tietokonetta. Data oli konkreettista ja käyttäjän tuli ymmärtää tietokoneen toimintaa todella hyvin saadakseen järkeviä tuloksia koneesta ulos.
 
 1980- ja 90-luvuilla data siirtyi pikkuhiljaa magneettilevyille ja sen käsittelystä tuli helpompaa. Kodaamista suoritettiin ihan oikeilla ohjelmointikielillä, mutta järkevien tuloksien saaminen vaati vielä tietokoneiden ymmärtämistä. Jo 2010-luvulla koneiden ymmärtämä abstraktiotaso on noussut jo niin suureksi, että käytännössä ohjelmoinnista sen suuremmin ymmärtämätön ihminen pystyy kirjoittamaan selkokielisiä lauseita, jotka tietokone ymmärtää ja suorittaa. Koneiden ymmärtämän abstraktiotason nousu tarkoittaa, että tulevaisuudessa kaikki osaavat koodata, eikä järkevien tuloksien saamiseksi tarvitse ymmärtää ohjelmoinnista juuri mitään.
@@ -28,3 +24,7 @@ Suurin pullonkaula tietokoneiden käytössä ei siis ole koodamistaidon puute, v
 Tietotyöläinen menee hukkaan liukuhihnalla, joten jos sinusta tuntuu että teet turhia ja toistuvia työtehtäviä, kuten datankäsittelyä, siihen on todennäköisesti jo keksitty valmis ratkaisu. Käytä hetki aikaa selvittämään tilannetta ja vaikka maksaisit 100 euroa tästä valmiista palvelusta, se on sen arvoista jos säästät edes muutaman tunnin työaikaa. 
 
 Tärkeintä on uskaltaa haastaa ympäristöäsi, olipa kyseessä sitten ammatti-identiteetti, vallitsevat käytänteet tai ryhmäpaine. Vaikka jotain on aina tehty tietyllä tavalla, se ei tarkoita että se on paras keino.
+
+---
+
+*Teksti on kirjoitettu [Tradenomiliiton LevelUp! -seminaarissa](https://tapahtumakalenteri.tral.fi/tapahtumat/tradenomi-level-up-seminaari/) pitämäni [Kaikki koodaa -esityksen](https://slides.com/varmais/kaikki-koodaa) pohjalta.*
