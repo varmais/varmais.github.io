@@ -1,7 +1,7 @@
 ---
 layout: post
 author: 'Teemu Tiilikainen'
-title: Kaikki koodaa(?)
+title: Tulevaisuuden työelämä
 date: 2018-09-30 11:56:36.000000000 +02:00
 ---
 
