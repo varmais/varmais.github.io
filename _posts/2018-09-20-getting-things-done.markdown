@@ -5,15 +5,15 @@ title: Getting Things Done
 date: 2018-09-20 15:16:35.000000000 +02:00
 ---
 
-Ihmisen mieli on huomattavasti parempi keksimään ideoita kuin säilyttämään niitä. [Getting Things Done](https://gettingthingsdone.com) on David Allenin 2000-luvun alussa asiantuntijatyöhön keksimä järjestelmä, jonka tarkoituksena on helpottaa kognitiivista painolastia asioiden ja ideoiden säilyttämisessä. Omaa elämääni GTD on mullistanut paitsi järjestelmänä, niin myös mindsettinä. 
+Ihmisen mieli on huomattavasti parempi keksimään uusia ideoita kuin säilyttämään vanhoja. [Getting Things Done](https://gettingthingsdone.com) on David Allenin 2000-luvun alussa asiantuntijatyöhön keksimä järjestelmä, jonka tarkoituksena on helpottaa kognitiivista painolastia tehtävien ja ideoiden säilyttämisessä. Omaa elämääni GTD on mullistanut paitsi järjestelmänä, niin myös ajattelutapana suhtautua tietotyöläisen arkeen. 
 
-GTD:stä järjestelmänä ei puhuta enää paljon, koska 20 vuoden aikana on tullut kaikenlaisia "automaattisia" productivity-systeemejä ja -palveluita, jotka lupaavat kuun taivaalta. Monet näistä järjestelmistä eivät kuitenkaan ole yhtä tehokkaita, koska ne saavat ihmisen kuvittelemaan itsessään järjestelmän organisoivan kaiken työn, mikä kuitenkin on lähes mahdotonta.
+GTD:stä järjestelmänä ei puhuta enää paljoa. Viimeisten 20 vuoden aikana on markkinoille tullut monenlaisia "automaattisia" tuottavuusjärjestelmiä ja -palveluita, jotka lupaavat kuun taivaalta. Monet näistä järjestelmistä eivät kuitenkaan ole kovin tehokkaita, koska ne saavat ihmisen kuvittelemaan, että itse järjestelmä organisoi kaiken heidän työnsä, mikä kuitenkaan ei yleensä pidä paikkaansa.
 
-Tehtävälistan keräämisen tulee olla niin vedenpitävä, ettei ihminen menetä kognitiivisia resursseja sen ylläpitämiseen tai sen toiminnallisuudesta huolehtimiseen. Aika on asiantuntijan tärkein resurssi, ja tärkeimmän resurssin hallinnoinnin ulkoistaminen ei ole ikinä hyvä ajatus. GTD:n avulla otat itse hallinnan aikatauluistasi, inboxistasi, työtehtävistäsi ja keskusteluistasi. Jotkut sovellukset voivat helpottaa niiden ylläpitoa, mutta vastuuta niistä et voi ulkoistaa.
+Metodin tehtävälistojen keräämiseen tulee olla niin vedenpitävä, ettei ihminen menetä kognitiivisia resursseja siihen tai sen ylläpitämiseen. Tuottavuus säästää aikaa, ja aika on asiantuntijan tärkein resurssi. Tärkeimmän resurssin hallinnan ulkoistaminen ei ole ikinä hyvä ajatus. GTD:n avulla otat haltuun aikataulusi, inboxisi, työtehtäväsi ja keskustelusi. Jotkut sovellukset voivat helpottaa niiden ylläpitoa, mutta vastuuta niiden hallinnasta et voi, etkä saa ulkoistaa.
 
-GTD:n mentaliteetti ei ole niinkään siinä, että saisit hallitusti tehtyä kaikki tehtävät ja ideat, vaan siinä että muodostamalla vedenpitävän tavan kerätä tehtäviä ja ideoita voit keskittää kaiken energian näiden tehtävien suorittamiseen ja ideoiden edistämiseen. GTD toimii, koska se tarjoaa sinulle selkeän kategorisoidun todo-listan, josta voit valita tehtävät joita suoritat seuraavaksi. Asiantuntijatyössä tehtävät eivät lopu ikinä, vaan elämä on yhtä tehtävien priorisointia. Siinä selkeät, kokoajan saatavilla ja päivittettävissä olevat listat ovat kullan arvoinen apu.
+GTD:n mentaliteetti ei ole niinkään siinä, että saisit hallitusti tehtyä kaikki tehtävät ja ideat, vaan että muodostamalla vedenpitävän tavan kerätä tehtäviä ja ideoita voit keskittää kaiken energian niiden suorittamiseen ja edistämiseen. GTD toimii, koska se tarjoaa sinulle selkeitä kategorisoituja tehtävälistoja, josta voit valita seuraavaksi suoritettavat tehtävät. Asiantuntijatyössä tekeminen eivät lopu ikinä, vaan elämä on yhtä ainaista tehtävien priorisointia. Siinä selkeät, kokoajan saatavilla ja päivittettävissä olevat listat ovat kullan arvoinen apu.
 
-GTD:n pyrkii sulkemaan avoimet loopit, eli poistamaan ne asiat jotka ahdistavat mieltä, asiat jotka muistat neljältä aamuyöllä ja asiat joista tulee huono omatunto, kun joku muistuttaa niistä. Huomioi sellaiset avoimet loopit, joista sinulle sataa tehtäviä mutta joista ei jää jälkeä. Keski keino jolla loopin voi sulkea ja saattaa tehtävät tai asiat niille kuuluvaan inboxiin.
+GTD:n pyrkii sulkemaan avoimet loopit, eli poistamaan ne asiat jotka ahdistavat mieltä, asiat jotka muistat neljältä aamuyöllä ja asiat joista tulee huono omatunto, kun joku muistuttaa niistä. Huomioi sellaiset avoimet loopit, joista sinulle sataa tehtäviä mutta joista ei jää jälkeä. Keksi keinot, joilla loopin voi sulkea ja saattaa tehtävät tai viestit niille kuuluvaan inboxiin.
 
 
 #### GTD workflow:
@@ -22,7 +22,7 @@ GTD:n pyrkii sulkemaan avoimet loopit, eli poistamaan ne asiat jotka ahdistavat 
 Kerää inboxiin kaikki asiat, jotka vaativat sinun huomiotasi. Osa tulee automaattisesti (esim. sähköposti) ja osa vaatii ylöskirjaamista (esim. Slack-viestit). Todennäköisesti haluat pitää kahta tai useampaa inboxia erottelemaan esimerkiksi digitaalisen ja fyysisen postin.
 
 **Prosessoi:**  
-Ota inboxista asia ja mieti mitä se tarkoittaa ja onko se asia johon voit reagoida, vai pitääkö sitä jatkojalustaa. Prosessoinnin prosessi on kuvattuna alla.
+Ota inboxista asia ja mieti mitä se tarkoittaa ja onko se asia johon voit reagoida, vai pitääkö sitä jatkojalustaa. Prosessoinnin vuokaavio on kuvattu alla.
 
 **Organisoi:**  
 Laita asia listaan jonne se kuuluu. Merkkaa kalenteriin, lisää oikealle listalle tai siirrä roskakoriin.
@@ -41,7 +41,7 @@ Voit keskittyä rauhassa tehtävien ja asioiden suorittamiseen, kun olet varma s
 #### Prosessointi ja organisointi: 
 
 **Vaatiiko reagointia?**  
-Pohdi tarvitseeko sinun tehdä asialle mitään, jotta saat tehtävän pois listalta. Jos ei tarvitse, voit siirtää asian joko roskakoriin, arkistoon tai idealistalle. Asiat jotka ei kiinnosta sinua yhtään menevät roskakoriin, asiat jotka on hyvä pitää muistissa menevät arkistoon ja asiat joihin palaat joskus menevät idealistalle.
+Pohdi tarvitseeko sinun tehdä asialle mitään, jotta saat tehtävän pois listalta. Jos ei tarvitse, voit siirtää asian joko roskakoriin, arkistoon tai idealistalle. Asiat jotka ei kiinnosta sinua yhtään menevät roskakoriin, asiat jotka on hyvä pitää muistissa menevät arkistoon ja asiat joihin joskus palaat menevät idealistalle.
 
 **Vaatiiko asian suorittaminen enemmän kuin yhden työvaiheen?**  
 Jos tehtävä ei ole tarpeeksi yksinkertainen, se on todennäköisesti projekti ja vaatii pilkkomista pienempiin työvaiheisiin. "Tee opinnäytetyötä" ei ole tarpeeksi yksinkertainen, mutta "kirjoita johdanto" on.
@@ -50,7 +50,7 @@ Jos tehtävä ei ole tarpeeksi yksinkertainen, se on todennäköisesti projekti 
 Jos asian suorittaminen vaatii alle 2 minuuttia, on ajanhukkaa viivästyttää sen suorittamista. Parempi hoitaa se heti alta pois.
 
 **Odottaako asia muita henkilöitä? Voiko sen delegoida?**  
-Delegointi vie alle 2 minuuttia, lue yltä ohjeet. Muita henkilöitä odottavilla asioilla voi olla oma lista, joten siirrä asia sinne. Esimerkiksi sähköpostiketjut voi kuitenkin arkistoida, koska koko ketju palautuu inboxiin jonkun henkilön vastatessa siihen.
+Delegointi vie alle 2 minuuttia, lue ohjeet yltä. Muita henkilöitä odottavilla asioilla voi olla oma lista, joten siirrä asia sinne. Esimerkiksi sähköpostiketjut voi kuitenkin arkistoida, koska koko ketju palautuu inboxiin jonkun henkilön vastatessa siihen.
 
 **Onko asialla tietty ajankohta tai deadline?**  
 Nämä asiat siirretään kalenteriin. Esimerkiksi hammaslääkärin tarkastus on loogista laittaa kalenteriin ylös, koska sen suorittamiseen on yksi mahdollinen ajankohta. Älä laita kalenteriin kuitenkaan asioita joita haluat tehdä tiettynä päivänä tai ajankohtana, ainoastaan niitä asioita joita sinun täytyy tehdä.
